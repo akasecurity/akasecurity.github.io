@@ -1,0 +1,15 @@
+# AKA Security on GitHub
+
+> AKA Security embeds forward deployed security engineers with AI-first teams to build the security controls their environment needs. This organization holds the open-source tools the company builds. The company site is https://akasecurity.io.
+
+## Company
+- [AKA Security](https://akasecurity.io): What the company does and how it works with a team.
+- [Company facts and pages as Markdown](https://akasecurity.io/llms.txt): Index of the site, one Markdown copy per page.
+- [Security hiring research](https://akasecurity.io/research/): Research on security job postings, with the ratings and tests behind each answer.
+
+## Open-source repositories
+- [ai-tc](https://github.com/akasecurity/ai-tc): AI Traffic Control. Checks every prompt and tool call an AI coding agent makes before it runs.
+- [ai-tc-docs](https://akasecurity.github.io/ai-tc-docs/): Documentation for AI-TC.
+- [claude-tools](https://github.com/akasecurity/claude-tools): A hardened baseline for Claude Code.
+- [preflight-skills](https://github.com/akasecurity/preflight-skills): Multi-harness development skills.
+- [marketplace](https://github.com/akasecurity/marketplace): One place to install the AKA tools across Claude Code, Codex and more.
