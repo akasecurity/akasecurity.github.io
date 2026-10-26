@@ -10,6 +10,6 @@
 ## Open-source repositories
 - [ai-tc](https://github.com/akasecurity/ai-tc): AI Traffic Control. Checks every prompt and tool call an AI coding agent makes before it runs.
 - [ai-tc-docs](https://akasecurity.github.io/ai-tc-docs/): Documentation for AI-TC.
-- [claude-tools](https://github.com/akasecurity/claude-tools): A hardened baseline for Claude Code.
+- [claude-tools](https://github.com/akasecurity/aka-claude-tools): A hardened baseline for Claude Code.
 - [preflight-skills](https://github.com/akasecurity/preflight-skills): Multi-harness development skills.
 - [marketplace](https://github.com/akasecurity/marketplace): One place to install the AKA tools across Claude Code, Codex and more.
